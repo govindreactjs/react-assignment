@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flight Explorer Web App
 
 React.js interview assignment implementing:
@@ -61,3 +62,7 @@ npm run build
 ```
 
 Then publish the generated `dist` directory according to the selected hosting provider.
+=======
+# react-assignment
+Flight-explorer-app
+>>>>>>> 4e59288ed909437ba5eb36f4526b85a9cec11955
